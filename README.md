@@ -12,3 +12,4 @@ So far there are algorithms for :
 2. Finding the solution to a non-linear algebraic equation using bisection method, regula-falsi method and the newton-raphson method.
 3. Finding the solution of an ODE (Ordinary Differential Equation) using Euler's method for explicit equations and ODEs and the Range-Kutta method for 2nd order Differential Equations
 4. Finding the solution to a system of equations using matrices (Work-In-Progress)
+5. Solving a definite integral using numerical analysis (Work-In-Progress)
